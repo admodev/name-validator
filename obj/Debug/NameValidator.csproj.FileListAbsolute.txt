@@ -1,0 +1,7 @@
+C:\Users\adolf\Documents\Programacion\CSharp\NameValidator\bin\Debug\NameValidator.exe.config
+C:\Users\adolf\Documents\Programacion\CSharp\NameValidator\bin\Debug\NameValidator.exe
+C:\Users\adolf\Documents\Programacion\CSharp\NameValidator\bin\Debug\NameValidator.pdb
+C:\Users\adolf\Documents\Programacion\CSharp\NameValidator\obj\Debug\NameValidator.csprojAssemblyReference.cache
+C:\Users\adolf\Documents\Programacion\CSharp\NameValidator\obj\Debug\NameValidator.csproj.CoreCompileInputs.cache
+C:\Users\adolf\Documents\Programacion\CSharp\NameValidator\obj\Debug\NameValidator.exe
+C:\Users\adolf\Documents\Programacion\CSharp\NameValidator\obj\Debug\NameValidator.pdb

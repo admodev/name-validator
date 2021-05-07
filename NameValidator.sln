@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameValidator", "NameValidator.csproj", "{AA49AB5D-41BD-40C0-A70E-9681EE453BBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA49AB5D-41BD-40C0-A70E-9681EE453BBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA49AB5D-41BD-40C0-A70E-9681EE453BBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA49AB5D-41BD-40C0-A70E-9681EE453BBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA49AB5D-41BD-40C0-A70E-9681EE453BBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37F9724A-E985-4C1E-8966-EAF2F2FADBA6}
+	EndGlobalSection
+EndGlobal
